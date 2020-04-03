@@ -1,5 +1,5 @@
 # bill-receipt-printing-system
-Bill Receipt Printing System Using Java
+Bill Receipt Printing System (Java)
 
 - Programming Language : Java
 - IDE Tools : Netbeans 8.2
